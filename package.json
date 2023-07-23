@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "this is basic node sample project",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "start": "nodemon index.js",
-    "test": "start",
-    "type": "module"
+    "test": "start"
   },
   "author": "Anji",
   "license": "ISC",
